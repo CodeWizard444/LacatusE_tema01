@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacatusE_TemaCLI", "Lacatus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triunghi", "Triunghi\Triunghi.csproj", "{D87F0FD1-33BF-4CA0-B76C-100AC441C07A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubRain", "CubRain\CubRain.csproj", "{8FE1C60A-EA96-49BF-82A2-A231F66C1DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubCuloare", "CubCuloare\CubCuloare.csproj", "{2DF99559-D4B6-43D5-A70F-A599C458F9FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D87F0FD1-33BF-4CA0-B76C-100AC441C07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D87F0FD1-33BF-4CA0-B76C-100AC441C07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D87F0FD1-33BF-4CA0-B76C-100AC441C07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE1C60A-EA96-49BF-82A2-A231F66C1DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE1C60A-EA96-49BF-82A2-A231F66C1DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE1C60A-EA96-49BF-82A2-A231F66C1DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE1C60A-EA96-49BF-82A2-A231F66C1DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF99559-D4B6-43D5-A70F-A599C458F9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF99559-D4B6-43D5-A70F-A599C458F9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF99559-D4B6-43D5-A70F-A599C458F9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF99559-D4B6-43D5-A70F-A599C458F9FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
