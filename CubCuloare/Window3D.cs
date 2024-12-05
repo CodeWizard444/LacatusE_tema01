@@ -162,7 +162,7 @@ namespace CubCuloare
         {
             Console.WriteLine("\n      MENIU");
             Console.WriteLine(" ESC - parasire aplicatie");
-            Console.WriteLine(" 1 - Schimbă culoarea vârfului 0 în roșu");
+            Console.WriteLine(" 1 - Schimbă culoarea vârfului 0 în rosu");
             Console.WriteLine(" 2 - Schimbă culoarea vârfului 1 în verde");
             Console.WriteLine(" 3 - Schimbă culoarea vârfului 2 în albastru");
             Console.WriteLine(" 4 - Schimbă culoarea vârfului 3 în galben");
